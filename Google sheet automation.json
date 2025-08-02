@@ -33,11 +33,11 @@
         -176,
         64
       ],
-      "id": "f8f1addf-aeaf-47e5-85f2-49371f34d9fd",
+      "id": "ur id",
       "name": "Google Sheets Trigger",
       "credentials": {
         "googleSheetsTriggerOAuth2Api": {
-          "id": "wjH6arZTwTSkSKNZ",
+          "id": "ur id",
           "name": "Google Sheets Trigger account 2"
         }
       }
@@ -58,12 +58,12 @@
         656,
         48
       ],
-      "id": "23dc735e-8244-4b81-b73c-7b25704a79f5",
+      "id": "ur id",
       "name": "Send a message",
       "webhookId": "ff643209-a16d-45e5-b53a-3a666445e6d8",
       "credentials": {
         "gmailOAuth2": {
-          "id": "veCyKz36AqEwANZA",
+          "id": "ur id",
           "name": "Gmail account 2"
         }
       }
@@ -101,7 +101,7 @@
       "alwaysOutputData": false,
       "credentials": {
         "googlePalmApi": {
-          "id": "1kEhrqzvlh0fnkGf",
+          "id": "ur id",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -141,6 +141,6 @@
     "templateCredsSetupCompleted": true,
     "instanceId": "4ccd79262d52482dcf52a723a4c7aff411ad58dbafacf30c8368fe69d7c9ae53"
   },
-  "id": "LQZRvW7pHZCF270v",
+  "id": "ur id",
   "tags": []
 }
